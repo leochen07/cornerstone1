@@ -13,5 +13,9 @@ Component Sizes
 6. Switch - 10mmx15mm
 
 Other Notes
-1.
+1. Needs to be 3 parts: Lcd unit, Magnetic Unit, Ultrasonic Unit.
+2. Sleeved cables and headers used to connect 3 parts.
+3. Can test magnetic sensor with any magentic piece connected to wheel
+4. Use +-.5mm tolerances
+5. Publish any changes here
 
